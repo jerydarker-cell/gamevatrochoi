@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Tuổi thơ của Bé"
+}
