@@ -21,3 +21,6 @@
     "vite": "^6.2.0"
   }
 }
+- name: Install Dependencies
+  run: npm install
+  working-directory: your/subdirectory
